@@ -28,10 +28,7 @@
     height: 6px;
     border-radius: 3px;
     display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
     left: 30px;
     bottom: 30px;
-    
 }
