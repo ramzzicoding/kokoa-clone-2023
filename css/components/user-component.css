@@ -25,6 +25,23 @@
     margin-top: 8px;
     font-size: 17px;
     color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-component__orange{
+    color: orange;
+    border: orange solid 2px;
+    background-color: white;
+    border-radius: 50%;
+    width: 13px;
+    height: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 7px;
+    margin-left: 10px;
 }
 
 .user-component__avatar--xl {
